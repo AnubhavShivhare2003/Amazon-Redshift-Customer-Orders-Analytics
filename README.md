@@ -294,12 +294,6 @@ Amazon-Redshift-Customer-Orders-Analytics/
 │   ├── 05_data_transformation.sql
 │   └── 06_analytical_queries.sql
 │
-├── screenshots/
-│   ├── s3_bucket.png
-│   ├── staging_tables.png
-│   ├── data_quality_checks.png
-│   ├── datamart_tables.png
-│   └── analytical_queries.png
 │
 └── README.md
 ```
