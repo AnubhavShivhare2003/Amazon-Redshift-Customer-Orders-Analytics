@@ -369,18 +369,7 @@ Run:
 06_analytical_queries.sql
 ```
 
----
 
-# Screenshots
-
-Add screenshots of:
-
-* Amazon S3 Bucket
-* Redshift Query Editor
-* Staging Tables
-* Data Quality Checks
-* Data Mart Tables
-* Analytical Query Results
 
 ---
 
